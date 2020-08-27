@@ -1,2 +1,2 @@
 # Latex_Resumes
-A compilation of my resumes made using latex
+An additional remote storage of my resumes made using latex
